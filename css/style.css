@@ -1,0 +1,29 @@
+.firstLine{
+    background-color: #cfcdcd !important;
+    font-weight: 500;
+    
+}
+.firstLine a {
+    color: black !important;
+    padding-right: 5px;
+}
+
+.themestyle {
+    background-color: rgb(20, 19, 19) !important;
+    color: white !important;
+}
+
+.themestyle a {
+    color: white;
+}
+.themestyle a:hover{
+    color: orange !important;
+}
+
+.footer-hr {
+    color: orange;
+    background-color: orange;
+    height: 4px;
+    padding-bottom: 5px;
+    margin: 0;
+}
