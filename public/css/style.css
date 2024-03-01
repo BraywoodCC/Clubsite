@@ -1,0 +1,35 @@
+.firstLine{
+    background-color: #cfcdcd !important;
+    font-weight: 500;
+    
+}
+.firstLine a {
+    color: black !important;
+    padding-right: 5px;
+}
+
+.themestyle {
+    background-color: rgb(20, 19, 19) !important;
+    color: white !important;
+}
+
+.themestyle a {
+    color: white;
+}
+.themestyle a:hover{
+    color: rgb(255, 94, 0) !important;
+}
+
+.footer-hr {
+    color: orange;
+    background-color: rgb(255, 94, 0);
+    height: 4px;
+    padding-bottom: 5px;
+    margin: 0;
+}
+
+/* therme button colors need to be change its too dark  */
+.btn-warning {
+    background-color: rgb(255, 94, 0);
+    border-color: black; 
+}
